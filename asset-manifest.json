@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/git@github.com:StoneCo/my-portfolio.git/static/css/main.a46003dc.css",
+    "main.js": "/git@github.com:StoneCo/my-portfolio.git/static/js/main.5979785c.js",
+    "static/media/profile.jpg": "/git@github.com:StoneCo/my-portfolio.git/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/about.jpg": "/git@github.com:StoneCo/my-portfolio.git/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/testimonial3.png": "/git@github.com:StoneCo/my-portfolio.git/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/git@github.com:StoneCo/my-portfolio.git/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/git@github.com:StoneCo/my-portfolio.git/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "static/media/Franklin-Cv.pdf": "/git@github.com:StoneCo/my-portfolio.git/static/media/Franklin-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/git@github.com:StoneCo/my-portfolio.git/index.html",
+    "main.a46003dc.css.map": "/git@github.com:StoneCo/my-portfolio.git/static/css/main.a46003dc.css.map",
+    "main.5979785c.js.map": "/git@github.com:StoneCo/my-portfolio.git/static/js/main.5979785c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a46003dc.css",
+    "static/js/main.5979785c.js"
+  ]
+}
