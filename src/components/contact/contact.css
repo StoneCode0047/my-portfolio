@@ -1,4 +1,6 @@
-
+.contact{
+    position: sticky;
+}
 
 .contact__container{
     grid-template-columns: repeat(2,max-content);
@@ -152,3 +154,5 @@
 /* For small devices */
 @media screen and (max-width: 350px) {
 }
+
+

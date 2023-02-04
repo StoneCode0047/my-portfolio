@@ -42,7 +42,7 @@ const Footer = () => {
           </a>
         </div>
 
-        <span className="footer__copy">Allright Reserved
+        <span className="footer__copy">Alright Reserved
             &#169; 2022. StoneCode Co. 
         </span>
       </div>

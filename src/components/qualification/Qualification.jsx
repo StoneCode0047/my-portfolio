@@ -130,7 +130,7 @@ const Qualification = () => {
           </div>
 
           <div
-            className={
+            className={ 
               toggleState === 2
                 ? "qualification__content qualification__content-active"
                 : "qualification__content"

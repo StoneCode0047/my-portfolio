@@ -1,6 +1,18 @@
 import React, { useState } from "react";
 import "./header.css";
 
+
+
+
+import {NavLink, Link} from "react-router-dom";
+
+const NAV_LINK = [
+  {
+    display:'Portfolio',
+    url:'/portfolio'
+  }
+]
+
 const Header = () => {
   /* ========== change background Header =========*/
   window.addEventListener("scroll", function () {
