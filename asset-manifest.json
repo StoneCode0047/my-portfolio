@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.908e9465.css",
-    "main.js": "/my-portfolio/static/js/main.52c36d02.js",
+    "main.css": "/my-portfolio/static/css/main.596be94c.css",
+    "main.js": "/my-portfolio/static/js/main.981179df.js",
     "static/media/profile.jpg": "/my-portfolio/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/Franklin-Arinze-OguegbeCv.pdf": "/my-portfolio/static/media/Franklin-Arinze-OguegbeCv.fb4ec1cb60fc76273805.pdf",
     "static/media/about.jpg": "/my-portfolio/static/media/about.25037666cca34f8f569a.jpg",
     "static/media/testimonial3.png": "/my-portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
     "static/media/testimonial2.png": "/my-portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/my-portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
-    "static/media/Franklin-Cv.pdf": "/my-portfolio/static/media/Franklin-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/my-portfolio/index.html",
-    "main.908e9465.css.map": "/my-portfolio/static/css/main.908e9465.css.map",
-    "main.52c36d02.js.map": "/my-portfolio/static/js/main.52c36d02.js.map"
+    "main.596be94c.css.map": "/my-portfolio/static/css/main.596be94c.css.map",
+    "main.981179df.js.map": "/my-portfolio/static/js/main.981179df.js.map"
   },
   "entrypoints": [
-    "static/css/main.908e9465.css",
-    "static/js/main.52c36d02.js"
+    "static/css/main.596be94c.css",
+    "static/js/main.981179df.js"
   ]
 }
