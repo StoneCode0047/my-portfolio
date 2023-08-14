@@ -13,9 +13,6 @@ import ScrollUp from './components/scrollup/ScrollUp';
 
 
 
-
-
-
 function App() {
   return (
     <>
