@@ -18,7 +18,7 @@ function App() {
     <>
     <Header />
     <main className='main'>
-       <Home />
+       <Homclae />
        <About />
        <Skill />
        <Services />
