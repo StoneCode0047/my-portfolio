@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.0f2b950d.css",
+    "main.css": "/my-portfolio/static/css/main.53add4b5.css",
     "main.js": "/my-portfolio/static/js/main.d38c76d3.js",
-    "static/media/profile.jpg": "/my-portfolio/static/media/profile.ababb70ef58c214c253b.jpg",
     "static/media/Franklin_Arinze_Ogeugbe-resume.pdf": "/my-portfolio/static/media/Franklin_Arinze_Ogeugbe-resume.572fb973e66891c49504.pdf",
     "static/media/testimonial3.png": "/my-portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
     "static/media/testimonial2.png": "/my-portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/my-portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "static/media/about.jpg": "/my-portfolio/static/media/about.38edb0520d83d9159916.jpg",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.38edb0520d83d9159916.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.0f2b950d.css.map": "/my-portfolio/static/css/main.0f2b950d.css.map",
+    "main.53add4b5.css.map": "/my-portfolio/static/css/main.53add4b5.css.map",
     "main.d38c76d3.js.map": "/my-portfolio/static/js/main.d38c76d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f2b950d.css",
+    "static/css/main.53add4b5.css",
     "static/js/main.d38c76d3.js"
   ]
 }
